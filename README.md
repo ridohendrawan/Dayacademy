@@ -3,7 +3,7 @@
 ## One Week Project . Nano Challange 02
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
+<img hight="100" width="300" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
 </div>
 
 **Duration**: One Week . 18-26 May’22 || 
