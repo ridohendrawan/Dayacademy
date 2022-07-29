@@ -3,8 +3,10 @@
 ## One Week Project . Nano Challange 02
 
   <img hight="100" width="300" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
-  <br>
-Duration: One Week . 18-26 May’22 || Role: Research, Developer, & Designer || Skills + Tools: SwiftUI, Adobe Creative, & Figma.
+  
+- Duration: One Week . 18-26 May’22 
+- Role: Research, Developer, & Designer 
+- Skills + Tools: SwiftUI, Adobe Creative, & Figma.
 
 ## Overview
 An app to help learner to be **reminded about their academy schedule and the event academy held with notification and alarm** by Summarize all the academy regular schedule and academy event in one app with a reminder feature that will make notif user about what activity will begin in the close time so learner can be more aware about the schedule they have that academy already provide.
