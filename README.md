@@ -4,7 +4,7 @@
 
   <img hight="100" width="300" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
   
-- Duration: One Week . 18-26 May’22 
+- Duration: One Week . 22-29 July’22
 - Role: Research, Developer, & Designer 
 - Skills + Tools: SwiftUI, Adobe Creative, & Figma.
 
