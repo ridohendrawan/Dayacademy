@@ -1,8 +1,13 @@
 # Dayacademy
 
 ## One Week Project . Nano Challange 02
-**Duration**: One Week . 18-26 May’22
-**Role:** Research, Developer, & Designer
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
+</div>
+
+**Duration**: One Week . 18-26 May’22 || 
+**Role:** Research, Developer, & Designer || 
 **Skills + Tools:** SwiftUI, Adobe Creative, & Figma.
 
 ## Overview
