@@ -4,9 +4,10 @@
 
 <p float="left">
   <img hight="100" width="300" alt="GIF" align="center" src="https://data.whicdn.com/images/322428198/original.gif">
-**Duration**: One Week . 18-26 May’22 || 
+  <p>
+  **Duration**: One Week . 18-26 May’22 || 
 **Role:** Research, Developer, & Designer || 
-**Skills + Tools:** SwiftUI, Adobe Creative, & Figma.
+**Skills + Tools:** SwiftUI, Adobe Creative, & Figma. </p>
 </p>
 
 <br>
